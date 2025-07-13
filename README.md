@@ -1,5 +1,4 @@
-# Тестовое задание для Junior Python Backend Developer (FastAPI + TortoiseORM)
-
+# Тестовое задание для Junior Python Backend Developer
 ## Цель
 Проверить навыки разработки асинхронных API с использованием:
 - **FastAPI**
